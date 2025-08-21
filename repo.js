@@ -1,6 +1,6 @@
 {
     "id": "solagol",
-    "title": "solagol's bgm patches",
+    "title": "solagol's patches",
     "contact": "evgenyfom2005@gmail.com",
     "servers": [
         "https://github.com/solagoll/touhou-patches"
